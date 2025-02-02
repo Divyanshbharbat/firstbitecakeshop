@@ -1,0 +1,24 @@
+.input input {
+    /* background-color: #eaeaea; */
+    border-radius: 0.9vh;
+    height: 6vh;
+    width:27vh;
+    border: none;
+    padding-left: 1vh;
+    }
+#text textarea{
+       
+width: 27vh;
+    }
+#number{
+    width:10vh;
+   
+   background-color: transparent;
+    
+}
+#number2{
+    width: 10vh;
+  background-color: transparent;
+   
+    
+}

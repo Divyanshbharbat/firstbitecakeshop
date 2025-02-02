@@ -1,0 +1,35 @@
+#navbar{
+  background-color: 'yellow';
+}
+#list{
+color: white;
+ background-color:black;
+ font-family: "Poppins";
+ margin: 1vh 0;
+ padding: 2vh;
+ border-radius: 1vh;
+ text-decoration: underline black;
+}
+#list:hover{
+color: black;
+ background-color:white;
+ font-family: "Poppins";
+ border-radius: 1vh;
+ text-decoration: underline black;
+}
+#signup{
+  border-radius: 1vh; 
+  padding: 2vh;
+  margin: 1vh 0;
+  color: white;
+}
+#logout{
+  border-radius: 1vh; 
+  padding: 2vh;
+  margin: 1vh 0;
+  color: white;
+ 
+}
+#navbar{
+  background-color:black;
+}

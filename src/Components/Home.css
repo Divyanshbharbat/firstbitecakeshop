@@ -1,0 +1,15 @@
+*{
+    font-family: "Poppins";
+}
+.col{
+    display: flex;
+    justify-content: center;
+}
+@media (max-width:600px) {
+    #container{
+        height:160vh
+    }
+}
+#home{
+    height: 80vh;
+}

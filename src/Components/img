@@ -1,0 +1,23 @@
+ src="https://cdn.leonardo.ai/users/91c398ec-b0c3-4153-970f-9ac8075e2f67/generations/7bba9295-edbf-432b-923b-0650690aa26f/Leonardo_Phoenix_10_Create_a_vibrant_and_appetizing_image_feat_1.jpg"
+
+
+
+
+ src="https://cdn.leonardo.ai/users/91c398ec-b0c3-4153-970f-9ac8075e2f67/generations/7bba9295-edbf-432b-923b-0650690aa26f/Leonardo_Phoenix_10_Create_a_vibrant_and_appetizing_image_feat_3.jpg"
+
+
+
+ src="https://cdn.leonardo.ai/users/91c398ec-b0c3-4153-970f-9ac8075e2f67/generations/d8641ab3-7545-43bf-92d5-b53540b4c14c/Leonardo_Phoenix_10_A_decadent_moist_and_richly_textured_singl_1.jpg"
+
+
+   let y=await data1.insertMany([
+    {name:'cake', quantity:1},
+    {name:'cake', quantity:1},
+    {name:'cake', quantity:1},
+    {name:'cake', quantity:1},
+  ])
+
+  //
+  <img height='620vh' className='img-fluid' src="https://cdn.leonardo.ai/users/91c398ec-b0c3-4153-970f-9ac8075e2f67/generations/7bba9295-edbf-432b-923b-0650690aa26f/Leonardo_Phoenix_10_Create_a_vibrant_and_appetizing_image_feat_1.jpg" class="d-block w-100" alt="..." />
+  <img height='620vh' className='img-fluid' src="https://cdn.leonardo.ai/users/91c398ec-b0c3-4153-970f-9ac8075e2f67/generations/7bba9295-edbf-432b-923b-0650690aa26f/Leonardo_Phoenix_10_Create_a_vibrant_and_appetizing_image_feat_3.jpg" class="d-block w-100" alt="..." />
+  <img height='620vh' className='img-fluid' src="https://cdn.leonardo.ai/users/91c398ec-b0c3-4153-970f-9ac8075e2f67/generations/d8641ab3-7545-43bf-92d5-b53540b4c14c/Leonardo_Phoenix_10_A_decadent_moist_and_richly_textured_singl_1.jpg" class="d-block w-100" alt="..." />
