@@ -1,4 +1,4 @@
-import {bdataschema} from './data.js'
+
 import mongoose, { SchemaTypes } from 'mongoose'
 
 let reddataschema=mongoose.Schema({
@@ -12,7 +12,7 @@ let reddataschema=mongoose.Schema({
  
 
 })
-let reddata=mongoose.model("reddata",{bdataschema})
+let reddata=mongoose.model("reddata",reddataschema)
 
 export default reddata
 // async function bcake(){
