@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 ![image alt](https://github.com/Divyanshbharbat/firstbitecakeshop/blob/31b7ac7c5873bd4c4dc16b9ffc5b58b8a0c5f3ba/Screenshot%202025-02-02%20212449.png)
 ![image alt](https://github.com/Divyanshbharbat/firstbitecakeshop/blob/d00a139587fe9ea20f7399da3925e06d05387331/Screenshot%202025-02-02%20212517.png)
 ![image alt](https://github.com/Divyanshbharbat/firstbitecakeshop/blob/a3c34999ba0380d369d6ebc196d76de0f080331a/Screenshot%202025-02-02%20212531.png)
+![image alt](https://github.com/Divyanshbharbat/firstbitecakeshop/blob/55769f071c108437a65040db5792950033faba60/Screenshot%202025-02-02%20212558.png)
