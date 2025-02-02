@@ -39,7 +39,7 @@ const Wcake = () => {
   return (
   
     <>
-     <h1 style={{fontSize:"9vh"}} className='px-3 py-4 mx-5  my-5'>Wedding Cake</h1>
+ <h1  className=' my-5  text-center mx-5 ' style={{color:"black",fontSize:"9vh" ,fontWeight:"bolder"}}>Wedding Cakes</h1>
     <div data-aos="fade-up" className="container-fluid d-flex justify-content-evenly flex-wrap">
         < div data-aos="fade-up" className="container-fluid" >
           <div className=' d-flex justify-content-evenly  flex-wrap my-5'>

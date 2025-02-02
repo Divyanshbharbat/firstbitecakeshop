@@ -16,10 +16,10 @@ const Footer = () => {
 <center>
   <h1 >Quick Links</h1>
  <div className="col-lg-4 col-sm-12 d-flex flex-column fs-2 ">
-<NavLink className='my-3 ' to="/">Home</NavLink>
-<NavLink className='my-3 ' to='/about'>About</NavLink>
-<NavLink className='my-3' to='/contact'>Contact</NavLink>
-<NavLink className='my-3' to='/services'>Services</NavLink>
+<NavLink className='my-3 text-info  ' to="/">Home</NavLink>
+<NavLink className='my-3 text-info ' to='/about'>About</NavLink>
+<NavLink className='my-3 text-info ' to='/contact'>Contact</NavLink>
+<NavLink className='my-3 text-info ' to='/services'>Services</NavLink>
 <NavLink style={{color:"black"}}  to='/adminlogin'>Adminlogin</NavLink>
  </div>
 </center>

@@ -97,7 +97,7 @@ const Navbar = () => {
               </li>
               <li className="nav-item" onClick={()=> setIsNavbarCollapsed(true)}>
                 {first ? (
-                  <NavLink className="nav-link mx-3 fs-5 bg-white text-black " style={{borderRadius:"1vh",fontWeight:"bold"}} id='logout' onClick={handleLogout}>Logout</NavLink>
+                  <NavLink className="nav-link mx-3 fs-5 bg-info text-black " style={{borderRadius:"1vh",fontWeight:"bold"}} id='logout' onClick={handleLogout}>Logout</NavLink>
                 ) : (
                   <NavLink id='signup' className="nav-link mx-3 fs-5 bg-info text-black" to='/signup'>Signup</NavLink>
                 )}

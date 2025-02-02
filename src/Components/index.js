@@ -23,6 +23,10 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// const corsOptions = {
+//   origin: 'https://firstbitecakeshop.vercel.app', // Replace with your frontend's origin
+//   credentials: true, // Allow cookies and other credentials
+// };
 const corsOptions = {
   origin: 'https://firstbitecakeshop.vercel.app', // Replace with your frontend's origin
   credentials: true, // Allow cookies and other credentials
