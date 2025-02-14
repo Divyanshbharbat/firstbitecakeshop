@@ -77,7 +77,7 @@ const Home = () => {
     <>
       <Toaster />
 
-      <img id='home' width='100%' src="https://cdn.leonardo.ai/users/8b49d567-5c2e-49dc-9bc4-d236e559f380/generations/99f4ce3b-ad6d-4743-a7df-15c104dd0787/Leonardo_Phoenix_10_A_beautifully_styled_and_welllit_photograp_1.jpg" alt="" />
+      <img className='img-fluid' width="100%" src="https://cdn.leonardo.ai/users/8b49d567-5c2e-49dc-9bc4-d236e559f380/generations/99f4ce3b-ad6d-4743-a7df-15c104dd0787/Leonardo_Phoenix_10_A_beautifully_styled_and_welllit_photograp_1.jpg" alt="" />
 
 
 
